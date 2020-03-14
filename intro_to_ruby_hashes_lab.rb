@@ -1,8 +1,9 @@
 def new_hash
-
+  hash = {}
 end
 
 def actor
+  movie = {:name => "Dwayne The Rock Johnson"}
 
 end
 
